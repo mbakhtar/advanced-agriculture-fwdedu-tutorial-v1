@@ -1,7 +1,7 @@
 # Advanced Agriculture CAK V2.1 fwdEDU
 
 ```package
-pump=github:climate-action-kits/pxt-fwd-edu/fwd-breakout
+fwd-edu-breakout=github:climate-action-kits/pxt-fwd-edu/fwd-breakout
 ``` 
 ## @showhint
 Add the ``||Input:on Button A Pressed||`` block
